@@ -8,5 +8,5 @@
 - SQL
 
 📫 How to reach me: ...
--Email: jkombedjian@gmail.com
--discord: volcanic
+- Email: jkombedjian@gmail.com
+- Discord: volcanic
