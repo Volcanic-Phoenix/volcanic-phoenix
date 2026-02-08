@@ -3,16 +3,14 @@
 ## More about me
 
 🌱 I’m currently learning:
+- JavaScript
+- PHP
+- Liquid
+
+:) Known Languages:
 - HTML
 - CSS
 - SQL
-- JavaScript
-- PHP
-<p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volcanic-phoenix&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
-</a>
-</p>
 
 📫 How to reach me:
 - Email: jkombedjian@gmail.com
