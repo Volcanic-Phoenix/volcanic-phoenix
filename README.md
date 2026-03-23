@@ -27,7 +27,7 @@
 
 ## How to reach me:
 ### I'm available for contact throughout any of my social media accounts, however, your best bet to reach me quick is through Email or Discord.
-###Email:
+### Email:
 jkombedjian@gmail.com
-###Discord:
+### Discord:
 Volcanic
