@@ -1,4 +1,4 @@
-# Welcome to my Page!
+# Hey there, welcome to my page!
 
 ## I’m currently learning:
 - Liquid
