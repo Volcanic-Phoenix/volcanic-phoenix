@@ -1,6 +1,4 @@
-<img src="https://yt3.googleusercontent.com/zbj1pMS7H9GR5J02ZiAhMHSmY8QTMwmXiHz7G0OWSvYmgNj-yWpkccd8yNLDRszWK9AU11D7=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="background img" width="1000" >
-
-## More about me
+## About me
 
 🌱 I’m currently learning:
 - JavaScript
@@ -13,5 +11,6 @@
 - SQL
 
 📫 How to reach me:
+I'm available for contact throughout any of my social media accounts, however, your best bet is though Email or Discord.
 - Email: jkombedjian@gmail.com
-- Discord: volcanic
+- Discord: Volcanic
