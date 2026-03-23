@@ -30,7 +30,11 @@ As a designer I strive to improve my usage of these applications consistently.
 
 ### Nexwave Video Games
 https://nexwavevideogames.com/ (Opening Soon!)
+![Nexwave Video Games](img/nexwave-video-games.png)
+Nexwave Video Games is a used game store based in Edmonton, Alberta. The owner wanted a website not to sell their products online, but to catalogue the store's inventory in order to drive in person traffic. We were tasked with making a modern website with a retro style, to keep up this style we went with blocky text/svgs and absolutely zero roundness on borders. I am the lead designer on this project, and with the design fully completed, me and my team are currently the finalisation period. In the process,I have had to learn how to use shopify for hosting and liquid as a framework. We have gained valuable experience dealing with problems and working together to create the best possible website for our client with our current skillset.
 
+Silksong Tools Database
+![Silksong Tools Database](img/silksong-tools-database.png)
 
 ## How to reach me:
 I'm available for contact throughout any of my social media accounts, however, your best bet to reach me quick is through Email or Discord.
